@@ -1,1 +1,1 @@
-// React + GPT Code kommt hier rein
+const OPENAI_API_KEY = "sk-abc123DEINKEY";
