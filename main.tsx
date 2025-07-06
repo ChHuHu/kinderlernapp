@@ -1,1 +1,1 @@
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "process.env.OPENAI_API_KEY || "";
